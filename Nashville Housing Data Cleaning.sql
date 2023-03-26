@@ -1,5 +1,5 @@
 /*
-Cleaning Data in SQL Queries
+Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, Removing Irrelevant/Duplicate Data, Converting Data Types
 */
 
 
