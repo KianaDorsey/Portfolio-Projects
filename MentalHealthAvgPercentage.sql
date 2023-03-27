@@ -1,3 +1,6 @@
+*/
+Global Mental Health Disorder Averages
+*/
 
 -- Displaying the entire table --
 
