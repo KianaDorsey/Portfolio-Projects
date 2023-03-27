@@ -1,5 +1,6 @@
 */
 Global Mental Health Disorder Averages
+Source: https://www.kaggle.com/datasets/thedevastator/global-mental-health-disorders?resource=download
 */
 
 -- Displaying the entire table --
