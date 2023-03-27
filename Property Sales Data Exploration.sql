@@ -1,3 +1,7 @@
+*/
+Source: https://www.kaggle.com/datasets/htagholdings/property-sales?select=raw_sales.csv
+*/
+
 Select *
 From PortfolioProject..PropertySales
 
