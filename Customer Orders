@@ -1,6 +1,7 @@
 */
 Data Exploration on Customer Orders
 Source: https://github.com/AndrejPHP/w3schools-database
+-- Here I was given 8 tables: Customers, Categories, Employees, OrderDetails, Orders, Products, Shippers, Suppliers.
 */
 
 --  Select customer name together with each order the customer made --
